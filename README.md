@@ -7,7 +7,7 @@
 - Servicio expuesto en CardController
 
 #### Ejemplo de uso: 
-[URL](http://cards-env.eba-jxn8xasg.us-east-1.elasticbeanstalk.com/card/operation-fee)  
+URL: http://cards-env.eba-jxn8xasg.us-east-1.elasticbeanstalk.com/card/operation-fee    
 Method: POST  
 Body:
 ```
